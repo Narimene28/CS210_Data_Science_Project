@@ -9,4 +9,4 @@ That is why, when I arrived in Turkey, I set myself the goal of taking my 10,000
 My exchange semester is coming to the end, so it’s time to take stock !
 To track my step count, I use the Health app, integrated directly into my iPhone. So, I had the idea to use my apple health data as analytical data for this project. And you will discover that we can analyze many other things, in addition to the number of steps, with the data of this application.
 
-You will find here the link of my site which presents my work : https://cs210-term-project.odoo.com/home
+You will find here the link of my site which presents my work : https://cs210-term-project.odoo.com
