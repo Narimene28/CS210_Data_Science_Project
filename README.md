@@ -7,6 +7,7 @@ When you have a sedentary job, or are an engineering student, spending your days
 That is why, when I arrived in Turkey, I set myself the goal of taking my 10,000 steps a day. And in addition, nothing better than walking to discover all the corners of a new country. 
 
 My exchange semester is coming to the end, so it’s time to take stock !
+
 To track my step count, I use the Health app, integrated directly into my iPhone. So, I had the idea to use my apple health data as analytical data for this project. And you will discover that we can analyze many other things, in addition to the number of steps, with the data of this application.
 
-You will find here the link of my site which presents my work : https://cs210-term-project.odoo.com
+You will find here the link of my web site which presents my work : https://cs210-term-project.odoo.com
